@@ -1,0 +1,26 @@
+parent:
+  child: value
+
+fruits:
+  - Apple
+  - Orange
+  - Banana
+person:
+  name : narender
+  age: 30
+  address:
+    street: 123 main
+    city: hyd
+
+
+unquoted: Hello world
+single-quoted: 'Hello'
+double-quoted: "Hello"
+
+
+employees:
+  - name: narender
+    age: 37
+  - name: anny
+    age: 12
+
